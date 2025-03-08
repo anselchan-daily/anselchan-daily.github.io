@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 部落格 | 安賽爾的日常</title>
+    <link>https://anselchan-daily.github.io/tags/</link>
+    <description>Recent content in Tags on 部落格 | 安賽爾的日常</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 08 Mar 2025 16:30:00 +0800</lastBuildDate>
+    <atom:link href="https://anselchan-daily.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub</title>
+      <link>https://anselchan-daily.github.io/tags/github/</link>
+      <pubDate>Sat, 08 Mar 2025 16:30:00 +0800</pubDate>
+      <guid>https://anselchan-daily.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>https://anselchan-daily.github.io/tags/html/</link>
+      <pubDate>Sat, 08 Mar 2025 16:30:00 +0800</pubDate>
+      <guid>https://anselchan-daily.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://anselchan-daily.github.io/tags/markdown/</link>
+      <pubDate>Sat, 08 Mar 2025 16:30:00 +0800</pubDate>
+      <guid>https://anselchan-daily.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://anselchan-daily.github.io/tags/python/</link>
+      <pubDate>Sat, 08 Mar 2025 16:30:00 +0800</pubDate>
+      <guid>https://anselchan-daily.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VS Code</title>
+      <link>https://anselchan-daily.github.io/tags/vs-code/</link>
+      <pubDate>Sat, 08 Mar 2025 16:30:00 +0800</pubDate>
+      <guid>https://anselchan-daily.github.io/tags/vs-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>https://anselchan-daily.github.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://anselchan-daily.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>https://anselchan-daily.github.io/tags/new/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://anselchan-daily.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>https://anselchan-daily.github.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://anselchan-daily.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="zh-tw"><head>
+  <meta charset="utf-8">
+  <title>部落格 | 安賽爾的日常</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="介紹 Markdown 語法使用方法">
+  <meta name="author" content="安賽爾">
+    
+  
+  <meta name="theme-name" content="liva-hugo" />
+  
+  <meta name="generator" content="Hugo 0.145.0">
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://anselchan-daily.github.io/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://anselchan-daily.github.io/plugins/slick/slick.css ">
+  
+  <link rel="stylesheet" href="https://anselchan-daily.github.io/plugins/themify-icons/themify-icons.css ">
+  
+  <link rel="stylesheet" href="https://anselchan-daily.github.io/plugins/venobox/venobox.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://anselchan-daily.github.io/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://anselchan-daily.github.io/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://anselchan-daily.github.io/images/favicon.png " type="image/x-icon">
+
+  <!-- google analitycs -->
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'Your ID', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</head>
+<body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
+      <a class="navbar-brand mobile-view" href="https://anselchan-daily.github.io/"><img class="img-fluid"
+          src="https://anselchan-daily.github.io/images/Ansel%20logo.png" alt="部落格 | 安賽爾的日常"></a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <div class="desktop-view">
+          <ul class="navbar-nav mr-auto">
+            
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="ti-facebook"></i></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="ti-instagram"></i></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/anselchan-daily"><i class="ti-github"></i></a>
+            </li>
+            
+          </ul>
+        </div>
+
+        <a class="navbar-brand mx-auto desktop-view" href="https://anselchan-daily.github.io/"><img class="img-fluid"
+            src="https://anselchan-daily.github.io/images/Ansel%20logo.png" alt="部落格 | 安賽爾的日常"></a>
+
+        <ul class="navbar-nav">
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://anselchan-daily.github.io/about/">HOME</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://anselchan-daily.github.io/blog/">BLOG</a>
+          </li>
+          
+          
+        </ul>
+
+        
+        <!-- search -->
+        <div class="search pl-lg-4">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="https://anselchan-daily.github.io//search" class="h-100">
+              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation -->
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        
+        <a href="/categories/%e7%a8%8b%e5%bc%8f%e8%aa%9e%e8%a8%80"
+          class="text-primary">程式語言</a>
+        
+        <h2><h3 id="markdown是甚麼認識vs-code使用的markdown語法">Markdown是甚麼？認識VS Code使用的Markdown語法</h3>
+</h2>
+        <div class="mb-3 post-meta">
+          <span>By 安賽爾</span>
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>08 March 2025</span>
+          
+        </div>
+        
+        <img src="https://anselchan-daily.github.io/images/post/post-3.jpg" class="img-fluid w-100 mb-4" alt="Markdown是甚麼？認識VS Code使用的Markdown語法
+">
+        
+        <div class="content mb-5">
+          <h3 id="什麼是-markdown">什麼是 Markdown？</h3>
+<p>Markdown 是一種 <strong>輕量級標記語言</strong>，由 <strong>約翰·格魯伯（John Gruber）</strong> 創立，旨在讓人們使用 <strong>直觀、易讀、易寫</strong> 的方式來撰寫文件，並能快速轉換為 <strong>HTML 或 XHTML</strong>。</p>
+<p>它的語法簡潔優雅，無需繁瑣的格式設定，只要專注於內容本身，就能輕鬆打造出結構清晰、排版精美的文章！📄</p>
+<hr>
+<h3 id="為什麼你應該愛上-markdown">為什麼你應該愛上 Markdown？</h3>
+<p>✔️ <strong>簡單易學</strong> —— 你只需要記住幾個標記符號，就能輕鬆上手！<br>
+✔️ <strong>極致專注</strong> —— 無需分心調整格式，讓寫作回歸純粹！<br>
+✔️ <strong>隨處可用</strong> —— 適用於筆記、部落格、技術文件，甚至電子書！<br>
+✔️ <strong>強大擴展</strong> —— 支援 <strong>圖片、圖表、數學公式</strong>，更可結合 <strong>HTML</strong> 使用！</p>
+<hr>
+<h3 id="markdown-無處不在">Markdown 無處不在</h3>
+<p>你知道嗎？許多知名平台早已廣泛使用 Markdown：</p>
+<p>🛰️ <strong>程式開發與文件管理</strong>：GitHub、SourceForge<br>
+💬 <strong>社群論壇與討論區</strong>：Reddit、Discord、Stack Exchange、OpenStreetMap<br>
+📝 <strong>內容創作與電子書</strong>：簡書、Diaspora</p>
+<p>不論是寫筆記、寫技術文檔，還是經營個人部落格，Markdown 都能讓你的寫作 <strong>更輕鬆、更有條理、更專業！</strong></p>
+<hr>
+<p>以下是我這個月學習 GitHub 架設個人部落格，安裝 <strong>Visual Studio Code</strong> 所使用到的 Markdown語法：</p>
+<h3 id="markdown語法">Markdown語法</h3>
+<h5 id="1-內文">1. 內文</h5>
+<p>💡 公式: 直接輸入呈現字元</p>
+<p>我是內文</p>
+<h5 id="2-標題">2. 標題</h5>
+<p>💡 共六級標題，公式如下:</p>
+<p>1️⃣一級標題 👉 # ➕ 空白鍵 ➕ 呈現字元</p>
+<h1 id="一級標題">一級標題</h1>
+<p>2️⃣二級標題 👉 ## ➕ 空白鍵 ➕ 呈現字元</p>
+<h2 id="二級標題">二級標題</h2>
+<p>3️⃣三級標題 👉 ### ➕ 空白鍵 ➕ 呈現字元</p>
+<h3 id="三級標題">三級標題</h3>
+<p>4️⃣四級標題 👉 #### ➕ 空白鍵 ➕ 呈現字元</p>
+<h4 id="四級標題">四級標題</h4>
+<p>5️⃣五級標題 👉 ##### ➕ 空白鍵 ➕ 呈現字元</p>
+<h5 id="五級標題">五級標題</h5>
+<p>6️⃣六級標題 👉 ###### ➕ 空白鍵 ➕ 呈現字元</p>
+<h6 id="六級標題">六級標題</h6>
+<h5 id="3-粗體">3. 粗體</h5>
+<p>💡 公式 👉 ** ➕ 呈現字元 ➕ **</p>
+<p><strong>我是粗體</strong></p>
+<h5 id="4-斜體">4. 斜體</h5>
+<p>💡 公式 👉 * ➕ 呈現字元 ➕ *</p>
+<p><em>我是斜體</em></p>
+<h5 id="5-有序序列">5. 有序序列</h5>
+<p>💡 公式:</p>
+<p>1️⃣有序序列 (正常) 👉 數字 ➕ . ➕ 空白鍵 ➕ 呈現字元</p>
+<ol>
+<li>我是有序序列1</li>
+<li>我是有序序列2</li>
+</ol>
+<p>2️⃣有序序列的內縮 👉 4個空白鍵 ➕ 數字 ➕ . ➕ 空白鍵 ➕ 呈現字元</p>
+<ol>
+<li>我是有序序列1
+<ol>
+<li>我是有序序列1的內縮
+<ol>
+<li>我是有序序列1的再內縮</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h5 id="6-無序序列">6. 無序序列</h5>
+<p>💡 公式:</p>
+<p>1️⃣無序序列 (正常) 👉 * ➕ 空白鍵 ➕ 字元</p>
+<ul>
+<li>我是無序序列</li>
+</ul>
+<p>2️⃣無序序列的內縮 👉 4個空白鍵 ➕ * ➕ 空白鍵 ➕ 字元</p>
+<ul>
+<li>我是無序序列
+<ul>
+<li>我是無序序列的內縮</li>
+</ul>
+</li>
+</ul>
+<h5 id="7-引用">7. 引用</h5>
+<p>💡 公式 👉 &gt; ➕ 空白鍵 ➕ 呈現字元</p>
+<blockquote>
+<p>我是引用</p></blockquote>
+<h5 id="8-超連結">8. 超連結</h5>
+<p>💡 公式 👉 [呈現字元] ➕ (超連結網址)</p>
+<p><a href="https://github.com/anselchan-daily">我是超連結</a></p>
+<h5 id="9-圖片">9. 圖片</h5>
+<p>💡 公式 👉 ! ➕ [] ➕ (圖片連結)</p>
+<p><img src="/images/promotion.png" alt=""></p>
+<h5 id="10-單行程式碼">10. 單行程式碼</h5>
+<p>💡 公式 👉 ` ➕ 單行程式碼 ➕ ‵</p>
+<p><code>我是單行程式碼</code></p>
+<h5 id="11-多行程式碼">11. 多行程式碼</h5>
+<p>💡 公式 👉 ‵ ‵ ‵ ➕ 多元程式碼 ➕ ‵ ‵ ‵</p>
+<pre tabindex="0"><code>print(&#34;我是多行程式碼&#34;)
+print(&#34;我是多行程式碼&#34;)
+print(&#34;我是多行程式碼&#34;)
+</code></pre><h5 id="12-表格">12. 表格</h5>
+<table>
+  <thead>
+      <tr>
+          <th>Tables</th>
+          <th style="text-align: center">Are</th>
+          <th style="text-align: right">Cool</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>col 3 is</td>
+          <td style="text-align: center">right-aligned</td>
+          <td style="text-align: right">$1600</td>
+      </tr>
+      <tr>
+          <td>col 2 is</td>
+          <td style="text-align: center">centered</td>
+          <td style="text-align: right">$12</td>
+      </tr>
+      <tr>
+          <td>zebra stripes</td>
+          <td style="text-align: center">are neat</td>
+          <td style="text-align: right">$1</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+
+        </div>
+
+        
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<footer class="text-capitalize">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center mb-5">
+        <a href="https://anselchan-daily.github.io/"><img src="https://anselchan-daily.github.io/images/Ansel%20logo.png" alt="部落格 | 安賽爾的日常"></a>
+      </div>
+               
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Contact Me</h6>
+        <ul class="list-unstyled">
+          
+          <li class="mb-3"><a class="text-dark" href="tel:0933-139-513"><i
+                class="ti-mobile mr-3 text-primary"></i>0933-139-513</a></li>
+          
+                     
+          <li class="mb-3"><i class="ti-location-pin mr-3 text-primary"></i>Taipei City, Taiwan</li>
+          
+                     
+          <li class="mb-3"><a class="text-dark" href="mailto:chenyu2e@yahoo.com.tw"><i
+                class="ti-email mr-3 text-primary"></i>chenyu2e@yahoo.com.tw</a>
+          
+          </li>
+        </ul>
+      </div>
+      
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Social Contacts</h6>
+        <ul class="list-unstyled">
+          
+          <li class="mb-3"><a class="text-dark" href="#">facebook</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="#">instagram</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="https://github.com/anselchan-daily">github</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Categories</h6>
+        <ul class="list-unstyled">
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/go-language/">Go language</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/%e7%a8%8b%e5%bc%8f%e8%aa%9e%e8%a8%80/">程式語言</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Quick Links</h6>
+        <ul class="list-unstyled">
+          
+          <li class="mb-3"><a class="text-dark" href="https://anselchan-daily.github.io/about/">HOME</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="https://anselchan-daily.github.io/blog/">BLOG</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-12 border-top py-4 text-center">
+        | copyright © 2021 <a href="https://themefisher.com/hugo-themes/">Themefisher</a> All Rights Reserved |
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  var indexURL = "https://anselchan-daily.github.io/index.json"
+</script>
+
+<!-- JS Plugins -->
+
+<script src="https://anselchan-daily.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://anselchan-daily.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://anselchan-daily.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://anselchan-daily.github.io/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://anselchan-daily.github.io/plugins/search/fuse.min.js"></script>
+
+<script src="https://anselchan-daily.github.io/plugins/search/mark.js"></script>
+
+<script src="https://anselchan-daily.github.io/plugins/search/search.js"></script>
+
+<!-- Main Script -->
+
+<script src="https://anselchan-daily.github.io/js/script.min.js"></script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VS Code on 部落格 | 安賽爾的日常</title>
+    <link>https://anselchan-daily.github.io/tags/vs-code/</link>
+    <description>Recent content in VS Code on 部落格 | 安賽爾的日常</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 08 Mar 2025 16:30:00 +0800</lastBuildDate>
+    <atom:link href="https://anselchan-daily.github.io/tags/vs-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>### Markdown是甚麼？認識VS Code使用的Markdown語法</title>
+      <link>https://anselchan-daily.github.io/blog/readpost-1/</link>
+      <pubDate>Sat, 08 Mar 2025 16:30:00 +0800</pubDate>
+      <guid>https://anselchan-daily.github.io/blog/readpost-1/</guid>
+      <description>&lt;h3 id=&#34;什麼是-markdown&#34;&gt;什麼是 Markdown？&lt;/h3&gt;&#xA;&lt;p&gt;Markdown 是一種 &lt;strong&gt;輕量級標記語言&lt;/strong&gt;，由 &lt;strong&gt;約翰·格魯伯（John Gruber）&lt;/strong&gt; 創立，旨在讓人們使用 &lt;strong&gt;直觀、易讀、易寫&lt;/strong&gt; 的方式來撰寫文件，並能快速轉換為 &lt;strong&gt;HTML 或 XHTML&lt;/strong&gt;。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
