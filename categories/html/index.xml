@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HTML on 部落格 | 安賽爾的日常</title>
+    <title>HTML on 安賽爾的日常筆記</title>
     <link>http://localhost:1313/categories/html/</link>
-    <description>Recent content in HTML on 部落格 | 安賽爾的日常</description>
+    <description>Recent content in HTML on 安賽爾的日常筆記</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>

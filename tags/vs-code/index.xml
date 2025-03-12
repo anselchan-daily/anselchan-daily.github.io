@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VS Code on 部落格 | 安賽爾的日常</title>
+    <title>VS Code on 安賽爾的日常筆記</title>
     <link>https://anselchan-daily.github.io/tags/vs-code/</link>
-    <description>Recent content in VS Code on 部落格 | 安賽爾的日常</description>
+    <description>Recent content in VS Code on 安賽爾的日常筆記</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 08 Mar 2025 16:30:00 +0800</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>https://anselchan-daily.github.io/blog/readpost-1/</link>
       <pubDate>Sat, 08 Mar 2025 16:30:00 +0800</pubDate>
       <guid>https://anselchan-daily.github.io/blog/readpost-1/</guid>
-      <description>&lt;p&gt;今年開始想架設網站時，是為了經營專屬自己的網誌，一方面想提升自己寫作的能力，一方面也想為了回顧未來的自己。&#xA;前幾年，有想過使用 &lt;strong&gt;WordPress&lt;/strong&gt; 架設網站，但主要還是考量到架設的成本，之後就隨著工作忙碌與耍廢而遺忘了這一件事、不了了之。&lt;/p&gt;&#xA;&lt;p&gt;由於去年四月底有購買過 &lt;strong&gt;hawhow&lt;/strong&gt; 一堂 &lt;strong&gt;雷蒙三十&lt;/strong&gt; 線上的 &lt;a href=&#34;https://hahow.in/courses/6059aee039f2512548c187c6?utm_source=share&amp;amp;utm_medium=link&#34;&gt;&lt;strong&gt;「Notion實戰課程：打造專屬數位工作術」&lt;/strong&gt;&lt;/a&gt;，因為這一堂課的實用性很高，對 &lt;strong&gt;hawhow&lt;/strong&gt; 的 &lt;strong&gt;評價&lt;/strong&gt; 很好，因此就Google了＂架設網站＂，很快就發現到&lt;a href=&#34;https://hahow.in/courses/5de8fec16117240026540b9c?utm_source=share&amp;amp;utm_medium=link&#34;&gt;&lt;strong&gt;「Github免費架站術！輕鬆打造個人品牌」&lt;/strong&gt;&lt;/a&gt;這一堂線上課程，看了講師的背景、個人網站與課程內容介紹，其中有一句：&lt;strong&gt;＂跟著這堂課一邊做，上完課就能擁有你的個人網站＂&lt;/strong&gt;，於是在今年3月初準備學習與實作的前兩天，就立即購買了這一堂線上課程。&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;目錄&#34;&gt;目錄&lt;/h3&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E6%83%B3%E5%AD%B8%E6%9E%B6%E8%A8%AD%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%99&#34;&gt;為什麼我想學架設個人網站？&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#%E4%BB%80%E9%BA%BC%E6%98%AF-markdown&#34;&gt;什麼是 Markdown？&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E6%87%89%E8%A9%B2%E6%84%9B%E4%B8%8A-markdown&#34;&gt;為什麼你應該愛上 Markdown？&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#markdown-%E7%84%A1%E8%99%95%E4%B8%8D%E5%9C%A8&#34;&gt;Markdown 無處不在&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#markdown-%E8%AA%9E%E6%B3%95&#34;&gt;Markdown 語法&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
