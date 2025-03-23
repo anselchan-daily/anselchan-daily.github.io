@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML on 安賽爾的日常筆記</title>
-    <link>https://anselchan-daily.github.io/tags/html/</link>
+    <link>http://localhost:1313/tags/html/</link>
     <description>Recent content in HTML on 安賽爾的日常筆記</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 08 Mar 2025 16:30:00 +0800</lastBuildDate>
-    <atom:link href="https://anselchan-daily.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>### 不會寫程式？用 Github 也能輕鬆建立網站！</title>
-      <link>https://anselchan-daily.github.io/blog/readpost-1/</link>
+      <link>http://localhost:1313/blog/readpost-1/</link>
       <pubDate>Sat, 08 Mar 2025 16:30:00 +0800</pubDate>
-      <guid>https://anselchan-daily.github.io/blog/readpost-1/</guid>
+      <guid>http://localhost:1313/blog/readpost-1/</guid>
       <description>&lt;h3 id=&#34;目錄&#34;&gt;目錄&lt;/h3&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E6%83%B3%E5%AD%B8%E6%9E%B6%E8%A8%AD%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%99&#34;&gt;為什麼我想學架設個人網站？&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#%E4%BB%80%E9%BA%BC%E6%98%AF-markdown&#34;&gt;什麼是 Markdown？&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E6%87%89%E8%A9%B2%E6%84%9B%E4%B8%8A-markdown&#34;&gt;為什麼你應該愛上 Markdown？&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#markdown-%E7%84%A1%E8%99%95%E4%B8%8D%E5%9C%A8&#34;&gt;Markdown 無處不在&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🖱️ &lt;a href=&#34;#markdown-%E8%AA%9E%E6%B3%95&#34;&gt;Markdown 語法&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
